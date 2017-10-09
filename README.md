@@ -1,6 +1,7 @@
 This is Internet Archive crawling script written by Bardia Doosti
 If you used my code please cite our paper:
 
+```
 @inproceedings{Doosti:2017:DSH:3091478.3091503,
  author = {Doosti, Bardia and Crandall, David J. and Su, Norman Makoto},
  title = {A Deep Study into the History of Web Design},
@@ -18,6 +19,7 @@ If you used my code please cite our paper:
  address = {New York, NY, USA},
  keywords = {convolutional neural networks, cultural analytics, deep learning, web design},
 }
+```
 
 This website crawler is based on PhantomJS so please remember to download it from http://phantomjs.org/ and put pre-compiled phantomjs beside the render.py and snap-archive-api.js file.
 
